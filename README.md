@@ -1,2 +1,2 @@
-# pythonproject
-my first python project 
+# serverproject
+a basic server project written with python 
